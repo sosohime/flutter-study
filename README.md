@@ -4,13 +4,15 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+use Vscode / Android studio / IDEA
+install flutter plugin
+run app
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## demo
+ 
+ - lib
+   - main.dart // 入口，全部代码已经import
+   - styleDemo.dart // 布局demo
+   - stateDemo.dart // statefulWidget Demo
+   - inherited.dart // inheritedWdiget Demo (react context)
